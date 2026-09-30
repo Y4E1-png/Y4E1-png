@@ -52,16 +52,6 @@ I'm looking for opportunities to contribute to a development team and continue g
   TVmaze · TheAudioDB · Wikipedia / MediaWiki
 </p>
 
-<h2 align="center">🚀 About Me</h2>
-
-I'm a Junior Front-End Developer based in Mexico City, Mexico.
-
-I'm currently studying Front-End Development at EBAC, where I build projects using HTML, CSS, JavaScript, TypeScript, and React.
-
-My hands-on experience includes integrating APIs, managing application state with Redux Toolkit, styling interfaces, and writing automated tests with Jest.
-
-I'm looking for opportunities to contribute to a development team and continue growing as a developer.
-
 <h2 align="center">📂 Projects</h2>
 
 ### [Wikipedia Explorer](https://github.com/Y4E1-png/Explorador-de-Wikipedia)
