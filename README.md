@@ -10,7 +10,7 @@
 
 <img 
   align=right
-  width="310" 
+  width="240" 
   alt="astronaut" 
   src="https://github.com/user-attachments/assets/4b088be9-c947-4611-bd96-33b24c12282b" 
 />
