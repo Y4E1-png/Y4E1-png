@@ -72,7 +72,7 @@ A web application to browse and search TV shows using the TVmaze API.
 
 **Technologies:** HTML, CSS, JavaScript, Sass, and Axios.
 
-### [Noble Motors](https://github.com/Y4E1-png/EBAC-Practica-Git)
+### [Noble Motors](https://github.com/Y4E1-png/Noble-Motors)
 
 A responsive website showcasing vehicles and automotive services.
 
