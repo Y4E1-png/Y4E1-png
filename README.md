@@ -15,7 +15,7 @@
   src="https://github.com/user-attachments/assets/4b088be9-c947-4611-bd96-33b24c12282b" 
 />
 
-I'm a developer based in Mexico City. I completed EBAC’s Front-End Development program, where I built React applications, integrated APIs, and wrote automated tests with Jest and React Testing Library
+I'm a developer based in Mexico City. In EBAC’s Full-Stack Development program, I started by building web interfaces with JavaScript and React then expanded into backend development with Python, Django, and relational databases.
 
 In my recent projects, MusiXtore, I connected React interfaces to Django REST APIs to handle orders and manage shipment tracking. I used PostgreSQL for application data and have been practicing T-SQL and relational database design with SQL Server
 
