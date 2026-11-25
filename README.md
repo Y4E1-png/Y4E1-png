@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yael Aguilar 👋</h1>
 
-<h3 align="center">Junior Full-Stack Developer · React, Django & PostgreSQL</h3>
+<h3 align="center">Junior Full-Stack Developer · React & Django</h3>
 
 <p align="center">
   HTML · CSS · JavaScript · React
