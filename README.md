@@ -3,7 +3,7 @@
 <h3 align="center">Junior Full-Stack Developer · React & Django</h3>
 
 <p align="center">
-  HTML · CSS · JavaScript · React
+  JavaScript · Python · SQL Server (T-SQL) · PostgreSQL
 </p>
 
 <h2 align="center">🚀 About Me</h2>
@@ -15,13 +15,11 @@
   src="https://github.com/user-attachments/assets/4b088be9-c947-4611-bd96-33b24c12282b" 
 />
 
-I'm a Junior Front-End Developer based in Mexico City.
+I'm a developer based in Mexico City. I completed EBAC’s Front-End Development program, where I built React applications, integrated APIs, and wrote automated tests with Jest and React Testing Library
 
-I completed the Front-End Development program at EBAC, where I built projects using HTML, CSS, JavaScript, TypeScript, and React.
+In my recent projects, MusiXtore, I connected React interfaces to Django REST APIs to handle orders and manage shipment tracking. I used PostgreSQL for application data and have been practicing T-SQL and relational database design with SQL Server
 
-My hands-on experience includes integrating APIs, managing application state with Redux Toolkit, styling interfaces, and writing automated tests with Jest. I've also deployed projects using Firebase Hosting and Netlify. I use Git and GitHub to track changes and organize my projects.
-
-I'm looking for opportunities to contribute to a development team and continue growing as a developer.
+I'm looking for a junior developer role where I can contribute to a team and continue growing across frontend and backend development
 
 <h2 align="center">💻 Tech Stack</h2>
 
