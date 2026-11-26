@@ -61,7 +61,7 @@ A full-stack music store where users can browse a song catalog, add tracks to a 
 
 A project for Hound Express through EBAC’s partner-company program. I extended MusiXtore with a shipment management module that lets users create and view shipment records and update their delivery status.
 
-**Tech stack:** React · Redux Toolkit · Django REST Framework · PostgreSQL
+**Tech stack:** React · Redux Toolkit · Django REST Framework · PostgreSQL   
 **[Live demo](https://houndexpress-project.web.app)**
 
 ### [Wikipedia Explorer](https://github.com/Y4E1-png/Explorador-de-Wikipedia)
