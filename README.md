@@ -101,10 +101,10 @@ A magazine website built with Bootstrap, including a homepage and a contact page
   />
 </p>
 
-## 🤝 Contact
+ <h2 align="center">🤝 Contact</h2>
 
-I'm open to junior full-stack and frontend developer opportunities.
+<p align="center">I'm open to junior full-stack and frontend developer opportunities.</p>
 
-[LinkedIn](https://www.linkedin.com/in/dyael-aguilar)
+<p align="center">[LinkedIn](https://www.linkedin.com/in/dyael-aguilar)</p>
 
 
