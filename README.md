@@ -24,30 +24,29 @@ I'm looking for a junior developer role where I can contribute to a team and con
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,sass,styledcomponents,nodejs,npm,vite,jest,firebase,netlify,git,github,vscode&perline=10"
-    alt="HTML, CSS, JavaScript, TypeScript, React, Redux, Bootstrap, Sass, styled-components, Node.js, npm, Vite, Jest, Firebase Hosting, Netlify, Git, GitHub and VS Code"
-  />
+  <img src="https://skillicons.dev/icons?i=js,react,python,django" height="48" alt="JavaScript, React, Python y Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" width="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git" height="48" alt="PostgreSQL, Docker y Git" />
 </p>
 
 <p align="center">
-  <strong>Libraries:</strong>
-  React DOM · Redux Toolkit · React Redux · React Router · Axios
+  <strong>Front-End:</strong>
+  HTML · CSS · Sass · JavaScript · TypeScript · React · Redux Toolkit
 </p>
 
 <p align="center">
-  <strong>Development tools:</strong>
-  Create React App · ESLint · Live Sass Compiler · Vite
+  <strong>Back-End:</strong>
+  Python · Django · Django REST Framework
 </p>
 
 <p align="center">
-  <strong>Testing:</strong>
-  React Testing Library · Jest
+  <strong>Databases:</strong>
+  SQL Server (T-SQL, relational database design) · PostgreSQL (Django applications)
 </p>
 
 <p align="center">
-  <strong>APIs:</strong>
-  TVmaze · TheAudioDB · Wikipedia / MediaWiki
+  <strong>Tools:</strong>
+  Jest · React Testing Library · Git · GitHub Actions · Docker Compose · Firebase Hosting
 </p>
 
 <h2 align="center">📂 Projects</h2>
