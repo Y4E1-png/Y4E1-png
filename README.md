@@ -51,29 +51,32 @@ I'm looking for a junior developer role where I can contribute to a team and con
 
 <h2 align="center">📂 Projects</h2>
 
+### [MusiXtore](https://github.com/Y4E1-png/MusiXtore)
+
+A full-stack music store where users can browse a song catalog, add tracks to a cart, and place test orders. I built the React storefront, connected it to a Django REST API, and stored orders in PostgreSQL.
+
+**Tech stack:** React · Redux Toolkit · Django REST Framework · PostgreSQL · Docker Compose
+
+### [MusiXtore: Hound Express](https://github.com/Y4E1-png/MusiXtore_Hound-Express)
+
+A project for Hound Express through EBAC’s partner-company program. I extended MusiXtore with a shipment management module that lets users create and view shipment records and update their delivery status.
+
+**Tech stack:** React · Redux Toolkit · Django REST Framework · PostgreSQL
+**[Live demo](https://houndexpress-project.web.app)**
+
 ### [Wikipedia Explorer](https://github.com/Y4E1-png/Explorador-de-Wikipedia)
 
-An application to search Wikipedia articles, read their introductions, and save a reading list.
+A React app for searching Spanish-language Wikipedia articles, reading their introductions, and saving articles to a reading list. I integrated the MediaWiki API and wrote tests for components, custom hooks, and Redux state.
 
-**Technologies:** JavaScript, React, Vite, Redux Toolkit, React Router, styled-components, Axios, and Jest.
+**Tech stack:** React · Vite · Redux Toolkit · Axios · Jest  
+**[Live demo](https://wikipedia-explorer.web.app)**
 
-### [Music Library](https://github.com/Y4E1-png/Biblioteca-musical)
+### [UR TUNES](https://github.com/Y4E1-png/Biblioteca-musical)
 
-A music search application using TheAudioDB, with a personal library and song details.
+A music discovery app that lets users search for songs by artist using TheAudioDB and save tracks to a personal library that persists across visits. I wrote automated tests and set up deployments to Firebase Hosting with GitHub Actions.
 
-**Technologies:** JavaScript, React, Create React App, Redux Toolkit, React Router, styled-components, Axios, and Jest.
-
-### [SeriesWorld](https://github.com/Y4E1-png/SeriesWorld)
-
-A web application to browse and search TV shows using the TVmaze API.
-
-**Technologies:** HTML, CSS, JavaScript, Sass, and Axios.
-
-### [Noble Motors](https://github.com/Y4E1-png/Noble-Motors)
-
-A responsive website showcasing vehicles and automotive services.
-
-**Technologies:** HTML, CSS, JavaScript, and Sass.
+**Tech stack:** React · Redux Toolkit · styled-components · Jest · Firebase Hosting  
+**[Live demo](https://urtunes.web.app)**
 
 ### [RIFF Magazine](https://github.com/Y4E1-png/RIFF-Magazine)
 
@@ -81,17 +84,6 @@ A magazine website built with Bootstrap, including a homepage and a contact page
 
 **Technologies:** HTML, CSS, and Bootstrap.
 
-### [Chatbot Friend](https://github.com/Y4E1-png/Chatbot-Friend)
-
-A chatbot with predefined responses and a conversation interface.
-
-**Technologies:** HTML, CSS, and JavaScript.
-
-### [TypeScript Practice](https://github.com/Y4E1-png/practica-typescript)
-
-An exercise using typed functions and compiling TypeScript to JavaScript.
-
-**Technologies:** TypeScript, Node.js, and npm.
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -109,13 +101,10 @@ An exercise using typed functions and compiling TypeScript to JavaScript.
   />
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
+## 🤝 Contact
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/Y4E1-png"
-    alt="Yael Aguilar's GitHub contribution calendar"
-  />
-</p>
+I'm open to junior full-stack and frontend developer opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/dyael-aguilar)
 
 
